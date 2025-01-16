@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BellieBee
-- 👀 I’m interested in Laravel and React.
-- 🌱 I’m currently learning Springboot.
+- 👀 I’m interested in Laravel, VueJs and React.
+- 🌱 I’m currently learning Springboot and NodeJS.
 - 💞️ I’m looking to collaborate on some interesting project.
 - 📫 How to reach me: paosulpizi@gmail.com
 
